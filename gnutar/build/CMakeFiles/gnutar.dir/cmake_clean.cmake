@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/gnutar.dir/src/buffer.c.o"
+  "CMakeFiles/gnutar.dir/src/buffer.c.o.d"
+  "CMakeFiles/gnutar.dir/src/compare.c.o"
+  "CMakeFiles/gnutar.dir/src/compare.c.o.d"
+  "CMakeFiles/gnutar.dir/src/create.c.o"
+  "CMakeFiles/gnutar.dir/src/create.c.o.d"
+  "CMakeFiles/gnutar.dir/src/delete.c.o"
+  "CMakeFiles/gnutar.dir/src/delete.c.o.d"
+  "CMakeFiles/gnutar.dir/src/extract.c.o"
+  "CMakeFiles/gnutar.dir/src/extract.c.o.d"
+  "CMakeFiles/gnutar.dir/src/incremen.c.o"
+  "CMakeFiles/gnutar.dir/src/incremen.c.o.d"
+  "CMakeFiles/gnutar.dir/src/list.c.o"
+  "CMakeFiles/gnutar.dir/src/list.c.o.d"
+  "CMakeFiles/gnutar.dir/src/misc.c.o"
+  "CMakeFiles/gnutar.dir/src/misc.c.o.d"
+  "CMakeFiles/gnutar.dir/src/names.c.o"
+  "CMakeFiles/gnutar.dir/src/names.c.o.d"
+  "CMakeFiles/gnutar.dir/src/sparse.c.o"
+  "CMakeFiles/gnutar.dir/src/sparse.c.o.d"
+  "CMakeFiles/gnutar.dir/src/system.c.o"
+  "CMakeFiles/gnutar.dir/src/system.c.o.d"
+  "CMakeFiles/gnutar.dir/src/tar.c.o"
+  "CMakeFiles/gnutar.dir/src/tar.c.o.d"
+  "CMakeFiles/gnutar.dir/src/transform.c.o"
+  "CMakeFiles/gnutar.dir/src/transform.c.o.d"
+  "CMakeFiles/gnutar.dir/src/update.c.o"
+  "CMakeFiles/gnutar.dir/src/update.c.o.d"
+  "CMakeFiles/gnutar.dir/src/utf8.c.o"
+  "CMakeFiles/gnutar.dir/src/utf8.c.o.d"
+  "CMakeFiles/gnutar.dir/src/xheader.c.o"
+  "CMakeFiles/gnutar.dir/src/xheader.c.o.d"
+  "gnutar"
+  "gnutar.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/gnutar.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

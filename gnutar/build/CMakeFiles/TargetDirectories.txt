@@ -1,0 +1,8 @@
+/Users/robot24/darling-gnutar/gnutar/build/CMakeFiles/libgnutar.dir
+/Users/robot24/darling-gnutar/gnutar/build/CMakeFiles/gnutar.dir
+/Users/robot24/darling-gnutar/gnutar/build/CMakeFiles/edit_cache.dir
+/Users/robot24/darling-gnutar/gnutar/build/CMakeFiles/rebuild_cache.dir
+/Users/robot24/darling-gnutar/gnutar/build/CMakeFiles/list_install_components.dir
+/Users/robot24/darling-gnutar/gnutar/build/CMakeFiles/install.dir
+/Users/robot24/darling-gnutar/gnutar/build/CMakeFiles/install/local.dir
+/Users/robot24/darling-gnutar/gnutar/build/CMakeFiles/install/strip.dir
